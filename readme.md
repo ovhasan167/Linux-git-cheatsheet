@@ -10,7 +10,7 @@
 - mv- move file or directories
 - mv - rename files
 - pwd - view working directory
-- cat - view file content
+- cat - view contents of a file
 
 ##Git commands-
 - git init - initialize repo
