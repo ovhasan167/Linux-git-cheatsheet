@@ -2,7 +2,7 @@
 
 ## Linux Commands-
 - ls - list files in current directory
-- cd - change directory
+- cd - change directory to navigate
 - mkdir - create directory
 - rmdir - remove directory
 - rm - remove
