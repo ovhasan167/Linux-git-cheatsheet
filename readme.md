@@ -1,7 +1,7 @@
 # Linux & Git Cheat Sheet
 
 ## Linux Commands-
-- ls - list files
+- ls - list files in current directory
 - cd - change directory
 - mkdir - create directory
 - rmdir - remove directory
