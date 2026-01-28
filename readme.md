@@ -8,7 +8,7 @@
 - rm - remove a file
 - cp - copy file or directories
 - mv- move file or directories
-- mv - rename
+- mv - rename files
 - pwd - print working directory
 - cat - view file content
 
