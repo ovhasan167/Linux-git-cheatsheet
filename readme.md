@@ -14,7 +14,7 @@
 
 ##Git commands-
 - git init - initialize a new repository
-- git add - add contents
+- git add - add contents in a repo
 - git commit - save changes
 - git status - repo status
 - git branch - manage branches
