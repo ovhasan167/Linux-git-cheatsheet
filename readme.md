@@ -16,7 +16,7 @@
 - git init - initialize a new repository
 - git add - add contents in a repo
 - git commit - save changes in a repo
-- git status - repo status
+- git status - show current repo status
 - git branch - manage branches
 
 
