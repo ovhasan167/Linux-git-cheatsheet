@@ -5,7 +5,7 @@
 - cd - change directory to navigate
 - mkdir - create a new directory 
 - rmdir - remove an empty directory
-- rm - remove
+- rm - remove a file
 - cp - copy
 - mv- move
 - mv - rename
