@@ -4,7 +4,7 @@
 - ls - list files in current directory
 - cd - change directory to navigate
 - mkdir - create a new directory 
-- rmdir - remove directory
+- rmdir - remove an empty directory
 - rm - remove
 - cp - copy
 - mv- move
