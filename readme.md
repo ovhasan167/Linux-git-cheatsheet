@@ -9,7 +9,7 @@
 - cp - copy file or directories
 - mv- move file or directories
 - mv - rename files
-- pwd - print working directory
+- pwd - view working directory
 - cat - view file content
 
 ##Git commands-
