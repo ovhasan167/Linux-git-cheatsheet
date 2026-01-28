@@ -7,7 +7,7 @@
 - rmdir - remove an empty directory
 - rm - remove a file
 - cp - copy file or directories
-- mv- move
+- mv- move file or directories
 - mv - rename
 - pwd - print working directory
 - cat - view file content
