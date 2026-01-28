@@ -6,7 +6,7 @@
 - mkdir - create a new directory 
 - rmdir - remove an empty directory
 - rm - remove a file
-- cp - copy
+- cp - copy file or directories
 - mv- move
 - mv - rename
 - pwd - print working directory
