@@ -17,6 +17,6 @@
 - git add - add contents in a repo
 - git commit - save changes in a repo
 - git status - show current repo status
-- git branch - manage branches
+- git branch - used to list, create delete, manage branches
 
 
