@@ -13,7 +13,7 @@
 - cat - view contents of a file
 
 ##Git commands-
-- git init - initialize repo
+- git init - initialize a new repository
 - git add - add contents
 - git commit - save changes
 - git status - repo status
