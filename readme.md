@@ -12,7 +12,7 @@
 - pwd - view working directory
 - cat - view contents of a file
 
-##Git commands-
+## Git commands-
 - git init - initialize a new repository
 - git add - add contents in a repo
 - git commit - save changes in a repo
